@@ -1,0 +1,7 @@
+C:\Users\tema2\source\repos\Samoletiki\Samoletiki\bin\Debug\Samoletiki.exe.config
+C:\Users\tema2\source\repos\Samoletiki\Samoletiki\bin\Debug\Samoletiki.exe
+C:\Users\tema2\source\repos\Samoletiki\Samoletiki\bin\Debug\Samoletiki.pdb
+C:\Users\tema2\source\repos\Samoletiki\Samoletiki\obj\Debug\Samoletiki.csprojAssemblyReference.cache
+C:\Users\tema2\source\repos\Samoletiki\Samoletiki\obj\Debug\Samoletiki.csproj.CoreCompileInputs.cache
+C:\Users\tema2\source\repos\Samoletiki\Samoletiki\obj\Debug\Samoletiki.exe
+C:\Users\tema2\source\repos\Samoletiki\Samoletiki\obj\Debug\Samoletiki.pdb
